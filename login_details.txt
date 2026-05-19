@@ -14,3 +14,9 @@ LOGIN SUCCESSFUL
 Username : santo
 Date     : 2026-05-19
 Time     : 12:48:06.896442
+
+----- LOGIN FAILED -----
+Reason   : Incorrect Captcha
+Username : santo
+Date     : 2026-05-19
+Time     : 13:34:47.682890
