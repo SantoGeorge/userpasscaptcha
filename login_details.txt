@@ -1,0 +1,16 @@
+
+----- LOGIN FAILED -----
+Reason   : Invalid Username or Password
+Username : santo
+Date     : 2026-05-19
+Time     : 12:32:05.845003
+
+----- LOGIN SUCCESSFUL -----
+Username : santo
+Date     : 2026-05-19
+Time     : 12:33:27.555290
+
+LOGIN SUCCESSFUL
+Username : santo
+Date     : 2026-05-19
+Time     : 12:48:06.896442
